@@ -4,13 +4,19 @@ A vlang libxlsxwriter module
 
 This is an effort port libxlsxwriter(https://github.com/jmcnamara/libxlsxwriter) to vlang.
 
-## Simple Usage
-
-Install
+## Install
 
 ```sh
 	v install --git https://github.com/kbkpbot/vxlsx.git
 ```
+
+Note: Currently, vxlsx need minizip install on your system, make sure it is installed.
+
+```sh
+apt install libminizip-dev
+```
+
+## Simple Usage
 
 vxlsx provide a simple function interface.
 
@@ -79,4 +85,6 @@ Currently, only support 3 attrs:
 
 ## TODO
 
-Many enum have not been ported.
+- Many enum have not been ported;
+- Remove system minizip requirement;
+- Should port to other platformt;
