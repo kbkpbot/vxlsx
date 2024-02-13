@@ -6,6 +6,12 @@ This is an effort port libxlsxwriter(https://github.com/jmcnamara/libxlsxwriter)
 
 ## Simple Usage
 
+Install
+
+```sh
+	v install --git https://github.com/kbkpbot/vxlsx.git
+```
+
 vxlsx provide a simple function interface.
 
 ```v
