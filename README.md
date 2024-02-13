@@ -1,8 +1,10 @@
 # vxlsx
 ## Description
-A vlang libxlsxwriter module
+A [vlang](https://github.com/vlang/v) libxlsxwriter module
 
-This is an effort port libxlsxwriter(https://github.com/jmcnamara/libxlsxwriter) to vlang.
+This is an effort port [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) to vlang.
+
+Please check [doc](https://github.com/kbkpbot/vxlsx.md) for more API description.
 
 ## Install
 
